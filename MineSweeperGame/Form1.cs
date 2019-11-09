@@ -71,7 +71,7 @@ namespace MineSweeperGame
                     {
                         //Tag'i 1 olan bütün PictureBoxların arka planını siyah yap ve mayın simgesi getir.
                         minePb.BackColor = Color.Black;
-                        minePb.Image = Image.FromFile("C:/Users/Ruben Castro/Desktop/Resimler/40x40.jpg");
+                        minePb.Image = Image.FromFile("C:/Users/Ruben Castro/Desktop/Mine-Transparent-Backgroundx25.png");
                     }
                     else
                     {
